@@ -33,7 +33,7 @@ StreetBrawler.Boot.prototype = {
         }
         // this a all the game configurations 
         // now begins the loading of the actual game assests
-        //this commanf will move the game on to the next statea
+        // this command will move the game on to the next state
         this.state.start('Preload');
     }
 };
